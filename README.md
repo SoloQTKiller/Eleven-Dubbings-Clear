@@ -6,7 +6,7 @@ Extensão independente para Google Chrome que limpa o histórico de Dublagem do 
 
 ### 1. Baixar e extrair o ZIP
 
-[Baixar a extensão (ZIP)](https://github.com/SoloQTKiller/Eleven-Dubbings-Clear/archive/refs/tags/Extens%C3%A3o.zip).
+[Baixar a extensão (ZIP)](https://github.com/user-attachments/files/35390533/limpar-dublagens.zip).
 
 Extraia todos os arquivos do ZIP. No Windows, clique com o botão direito no ZIP e selecione **Extrair tudo…**.
 
